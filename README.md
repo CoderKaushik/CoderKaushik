@@ -30,6 +30,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
+[![An image of @coderkaushik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkaushik)](https://holopin.io/@coderkaushik)
+
 <table align="center">
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderkaushik&theme=default" alt="GitHub Stats" /></td>
@@ -42,4 +44,3 @@
 </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-[![An image of @coderkaushik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkaushik)](https://holopin.io/@coderkaushik)
