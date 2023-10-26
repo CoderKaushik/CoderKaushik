@@ -34,12 +34,8 @@
 
 [![An image of @coderkaushik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkaushik)](https://holopin.io/@coderkaushik)
 
-<table align="center">
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderkaushik&theme=default" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=coderkaushik" alt="GitHub Streak Stats" /></td>
-  </tr>
-</table>
+![CoderKaushik's Stats](https://github-readme-stats.vercel.app/api?username=CoderKaushik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![CoderKaushik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoderKaushik&theme=vue-dark&hide_border=true)
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderkaushik&theme=default" alt="Profile Details" style="display: block; margin: 0 auto;" />
