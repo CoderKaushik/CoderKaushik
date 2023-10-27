@@ -34,11 +34,29 @@
 
 [![An image of @coderkaushik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkaushik)](https://holopin.io/@coderkaushik)
 
-![CoderKaushik's Stats](https://github-readme-stats.vercel.app/api?username=CoderKaushik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![CoderKaushik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CoderKaushik&theme=vue-dark&hide_border=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=CoderKaushik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="CoderKaushik's Stats">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderKaushik&theme=vue-dark&hide_border=true" alt="CoderKaushik's Streak">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderkaushik&theme=default" alt="Profile Details" style="display: block; margin: 0 auto;" />
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+  </a>
+</div>
+
+
