@@ -32,7 +32,16 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-[![An image of @coderkaushik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkaushik)](https://holopin.io/@coderkaushik)
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+  </a>
+</div>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderkaushik&theme=default" alt="Profile Details" style="display: block; margin: 0 auto;" />
+</p>
+
 
 <table>
   <tr>
@@ -46,17 +55,4 @@
 </table>
 
 
-
-
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderkaushik&theme=default" alt="Profile Details" style="display: block; margin: 0 auto;" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
-  </a>
-</div>
-
-
+[![An image of @coderkaushik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkaushik)](https://holopin.io/@coderkaushik)
