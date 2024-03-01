@@ -3,11 +3,11 @@
 </p>
 
 <h1>Hi there! 👋, I'm Hiteshwar Kaushik</h1>
-<h3>A dedicated Frontend Developer from India</h3>
+<h3>A dedicated MERN stack Developer from India, and a Sophomrore at the Indian Institute of Information Technology, Kota</h3>
 
 - 🌱 Currently focusing on **MERN Stack Development**
 
-- 💬 Ask me about **JavaScript, Frontend, React.js**
+- 💬 Ask me about **JavaScript, Frontend, React.js, BackEnd, Hosting**
 
 - 📫 Reach me at **thehiteshwarkaushik@gmail.com**
 
