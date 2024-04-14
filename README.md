@@ -56,3 +56,4 @@
 
 
 [![An image of @coderkaushik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderkaushik)](https://holopin.io/@coderkaushik)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
